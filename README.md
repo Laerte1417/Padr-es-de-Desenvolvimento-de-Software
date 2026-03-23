@@ -1,5 +1,8 @@
 # Padroes-de-Desenvolvimento-de-Software
 Laerte de Lara Ferreira Mendes Junior
+Arthur Macedo Falcão Ferreira
+Guilherme bilinski das neves
+João Lucas de Oliveira Martins 
 
 
 
